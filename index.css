@@ -1,0 +1,74 @@
+.teamscontainer {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+    background-color: navy;
+    
+    }
+
+.home-title, .score {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-size: 30px;
+    margin: auto;
+    padding-top: 10px;
+    
+    
+}
+
+.home-title {
+    display: flex;
+    color: white;
+    align-items: center;
+    
+
+     
+}
+
+.score {
+    color: red;
+    font-size: 90px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: black;
+    border-radius: 10px;
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+    
+}
+
+.buttonContainer {
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  
+}
+
+.buttonContainer {
+    
+    
+}
+
+.home-container, .guest-container {
+    
+    flex-direction: column;
+    margin: auto;
+    margin-bottom: 15px;
+    align-items: center;
+
+}
+
+.btn {
+    background-color: navy;
+    color: #9AABD8;
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
